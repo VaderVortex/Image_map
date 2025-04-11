@@ -1,4 +1,4 @@
-# Ex04 Places Around Me
+# Ex 04 : Places Around Me
 # Date:
 # AIM
 To develop a website to display details about the places around my house.
@@ -123,7 +123,13 @@ Execute the programs and publish them.
     </body>
     </html>
 # OUTPUT
-[FWAD ex 5.pdf](https://github.com/user-attachments/files/19709872/FWAD.ex.5.pdf)
+![Screenshot 2025-04-11 211713](https://github.com/user-attachments/assets/b94e3a49-c4b0-452e-bb29-1c16f3e5f2d9)
+![Screenshot 2025-04-11 211816](https://github.com/user-attachments/assets/07dc483c-9397-4ae6-9acb-aca422da3d04)
+![Screenshot 2025-04-11 211802](https://github.com/user-attachments/assets/642bbe29-63d9-4500-a21c-9e1a09d5ceb1)
+![Screenshot 2025-04-11 211752](https://github.com/user-attachments/assets/405fa7b7-5484-4cec-b5eb-333e099d573e)
+![Screenshot 2025-04-11 211738](https://github.com/user-attachments/assets/6d9d1c7c-a1c0-4235-83f5-0f691dd96f27)
+![Screenshot 2025-04-11 211724](https://github.com/user-attachments/assets/7933401d-98fd-4842-891d-6944cf8f4041)
+
 
 
 # RESULT
